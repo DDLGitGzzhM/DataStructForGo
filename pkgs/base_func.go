@@ -1,4 +1,4 @@
-package main
+package pkgs
 
 /*
 Swap 交换任意两个数值
